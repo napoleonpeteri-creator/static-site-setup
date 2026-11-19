@@ -32,11 +32,11 @@ From Application And OS Image Choose **Ubuntu or Amazon**
 
 Choose ***Instance Type and create Key Pair**
 
-![Instance&KeyPair.png](Images\Instance&KeyPair.png)
+![Instance&KeyPair.png](Images/Instance&KeyPair.png)
 
 Select ***Security Group***
 
-![SELECT-SECURITYGRP.png](Images\SELECT-SECURITYGRP.png)
+![SELECT-SECURITYGRP.png](Images/SELECT-SECURITYGRP.png)
 
 **LAUNCH INSTANCES**
 
